@@ -1,5 +1,5 @@
 # tui_clock
-A simple TUI clock written from scratch
+A simple TUI clock written from scratch without any libraries.
 
 ## Demo
 
